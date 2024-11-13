@@ -23,9 +23,16 @@
 <br>
 <p>JavaScript é umas das linguagens mais famosas e utilizadas nos desenvolvimentos front-end do mercado. Bastante experiência e pratica no uso delas, desenvolvi projetos pessoais usando-as.</p>
 <br>
-<h2>Redes Sociais</h2>
-<div styles="display: flex;">
-<img src="https://camo.githubusercontent.com/bb2913a71d7513370db93a85a313af402b1a41e3ceccb2a87f46847601c05cda/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d2532333538363546322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" alt="Discord" data-canonical-src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/7f5701ed50f919cf2352cd028b5b2dc974b5e643fe4d78ad826eb9e74551157f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white" style="max-width: 100%;">
+
+### 📊 Estatísticas no GitHub
+
+<br>
+
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedroca011&show_icons=true&theme=dracula)
+
+### 🚀 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroca011&layout=compact)
+
 </div>
 
