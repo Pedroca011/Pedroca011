@@ -72,7 +72,7 @@ Meu objetivo é evoluir constantemente, adotando boas práticas de código e arq
 ## 📫 Contato
 
 <div>
-  <a href="https://www.linkedin.com/in/pedro-ramos-paraiso" target="_blank">
+  <a href="https://www.linkedin.com/in/pedroramosparaiso" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pedrodesenvolvedor06@gmail.com">
