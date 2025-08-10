@@ -1,38 +1,81 @@
-<h1><strong>Sobre mim</strong></h1>
+<h1 align="center">🚀 Pedro Ramos Paraiso</h1>
+<h3 align="center">Desenvolvedor Full Stack Jr</h3>
 
-<p>Olá, sou Pedro Ramos Paraiso, 18 anos, sou programador Front-End Junior com experiência em JavaScript e React JS. Uso Figma para fazer design de projetos, e apoio na decisão de ideias.</p>
+<p align="center">
+  💻 Construindo soluções modernas, performáticas e escaláveis.
+</p>
 
-<h1>Editores</h1>
-<div style="display: flex;">
-<img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
- <img style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-               
+---
+
+## 🏢 Organização Principal
+
+Sou membro ativo da <a href="https://github.com/Group-HRP" target="_blank"><strong>Group-HRP</strong></a>,  
+um grupo focado no desenvolvimento de soluções inovadoras e colaborativas,  
+onde participo na construção de projetos reais e na implementação de boas práticas de desenvolvimento.
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Tenho 19 anos e sou Desenvolvedor **Full Stack Junior**, apaixonado por transformar ideias em aplicações completas e funcionais.  
+Trabalho tanto no **Front-end**, criando interfaces modernas, responsivas e intuitivas, quanto no **Back-end**, desenvolvendo APIs seguras, escaláveis e bem estruturadas.  
+
+No **Front-end**, utilizo **ReactJS**, **React Native**, **Tailwind CSS**, **Sass** e **Vite** para entregar experiências rápidas e de qualidade.  
+No **Back-end**, aplico **Node.js**, **NestJS**, **Prisma** e **PostgreSQL** para criar sistemas robustos e eficientes.  
+
+Também tenho experiência com **Figma**, garantindo que o design e a usabilidade estejam alinhados antes mesmo do desenvolvimento.  
+Meu objetivo é evoluir constantemente, adotando boas práticas de código e arquitetura para entregar projetos de alto nível.
+
+---
+
+## 🛠 Stacks e Tecnologias
+
+<div style="display: flex; flex-wrap: wrap; gap: 25px;">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="Vite" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
+  <img height="40" src="https://cdn.simpleicons.org/nestjs/E0234E" title="NestJS" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
 </div>
-<br>
-<p>Dois aplicativos usados no desenvolvimento. Visual Studio Code usado para fazer nossos melhores projetos e Figma para elaborarmos eles antes 😎</p>
-<h1><strong>Linguagens e Framewoorks</strong></h1>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" />
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Pedro-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-   <img align="center" style="width: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-</div>
-<br>
-<p>JavaScript é umas das linguagens mais famosas e utilizadas nos desenvolvimentos front-end do mercado. Bastante experiência e pratica no uso delas, desenvolvi projetos pessoais usando-as.</p>
-<br>
 
-### 📊 Estatísticas no GitHub
+---
 
-<br>
+## 📊 Estatísticas no GitHub
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedroca011&show_icons=true&theme=dracula)
-
-### 🚀 Linguagens Mais Usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroca011&layout=compact)
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroca011&show_icons=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroca011&layout=compact&theme=dracula" />
 </div>
 
+---
+
+## ✨ Curiosidades
+
+- 🎯 Pontualidade, comunicação e proatividade são meus pontos fortes.  
+- 📱 Experiência com **React Native** para desenvolvimento mobile.  
+- 📦 Experiência usando **JSON-Server** para simulação de APIs.  
+- 🔗 Experiência em integração com APIs externas e autenticação.  
+
+---
+
+## 📫 Contato
+
+<div>
+  <a href="https://www.linkedin.com/in/pedro-ramos-paraiso" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pedrodesenvolvedor06@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
