@@ -62,6 +62,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/Pedroca011/Pedroca011/output/snake.svg" alt="Snake animation" />
 
 ###
