@@ -1,81 +1,79 @@
-<h1 align="center">🚀 Pedro Ramos Paraiso</h1>
-<h3 align="center">Desenvolvedor Full Stack Jr</h3>
+<h2 align="left">Hi 👋! My name is Pedro and I'm a full stack developer, from JavaScript</h2>
 
-<p align="center">
-  💻 Construindo soluções modernas, performáticas e escaláveis.
-</p>
+###
 
----
-
-## 🏢 Organização Principal
-
-Sou membro ativo da <a href="https://github.com/Group-HRP" target="_blank"><strong>Group-HRP</strong></a>,  
-um grupo focado no desenvolvimento de soluções inovadoras e colaborativas,  
-onde participo na construção de projetos reais e na implementação de boas práticas de desenvolvimento.
-
----
-
-## 🧑‍💻 Sobre mim
-
-Tenho 19 anos e sou Desenvolvedor **Full Stack Junior**, apaixonado por transformar ideias em aplicações completas e funcionais.  
-Trabalho tanto no **Front-end**, criando interfaces modernas, responsivas e intuitivas, quanto no **Back-end**, desenvolvendo APIs seguras, escaláveis e bem estruturadas.  
-
-No **Front-end**, utilizo **ReactJS**, **React Native**, **Tailwind CSS**, **Sass** e **Vite** para entregar experiências rápidas e de qualidade.  
-No **Back-end**, aplico **Node.js**, **NestJS**, **Prisma** e **PostgreSQL** para criar sistemas robustos e eficientes.  
-
-Também tenho experiência com **Figma**, garantindo que o design e a usabilidade estejam alinhados antes mesmo do desenvolvimento.  
-Meu objetivo é evoluir constantemente, adotando boas práticas de código e arquitetura para entregar projetos de alto nível.
-
----
-
-## 🛠 Stacks e Tecnologias
-
-<div style="display: flex; flex-wrap: wrap; gap: 25px;">
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React Native" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" title="Vite" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" />
-  <img height="40" src="https://cdn.simpleicons.org/nestjs/E0234E" title="NestJS" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" title="Prisma" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedroca011&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedroca011&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
----
+###
 
-## 📊 Estatísticas no GitHub
+<br clear="both">
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedroca011&show_icons=true&theme=dracula" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedroca011&layout=compact&theme=dracula" />
+<img align="right" height="106" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc21xeGwxZmZodjhsb3owcDlicHZlZWRseWdkaWJtY2NjZ3BsbjdteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
----
+###
 
-## ✨ Curiosidades
+<br clear="both">
 
-- 🎯 Pontualidade, comunicação e proatividade são meus pontos fortes.  
-- 📱 Experiência com **React Native** para desenvolvimento mobile.  
-- 📦 Experiência usando **JSON-Server** para simulação de APIs.  
-- 🔗 Experiência em integração com APIs externas e autenticação.  
+<div align="left">
+  <a href=".pedroca06" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=.pedroca06&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/pedroramosparaiso/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:pedrodesenvolvedor06@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/5511954121619" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
 
----
+###
 
-## 📫 Contato
+<img src="https://raw.githubusercontent.com/Pedroca011/Pedroca011/output/snake.svg" alt="Snake animation" />
+
+###
 
 <div>
-  <a href="https://www.linkedin.com/in/pedroramosparaiso" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:pedrodesenvolvedor06@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
