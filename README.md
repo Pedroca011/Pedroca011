@@ -11,7 +11,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pedroca011&label=Visitas&color=00e5ff&style=for-the-badge" alt="Visitas" />
   <img src="https://img.shields.io/badge/status-open%20to%20work-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Open to work" />
 </div>
 
