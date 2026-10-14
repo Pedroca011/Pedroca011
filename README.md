@@ -27,7 +27,7 @@ const pedro = {
   formacao: "Análise e Desenvolvimento de Sistemas",
   stackPrincipal: ["TypeScript", "React", "Node.js", "NestJS"],
   focoAtual: "Arquitetura limpa, boas práticas e design de software",
-  hobbies: ["Stardew Valley 🌾", "Explorar novas tecnologias"],
+  hobbies: ["Jogar Futebol", "Explorar novas tecnologias"],
   frase: "Código bom é código que outra pessoa consegue entender.",
 };
 ```
@@ -74,7 +74,6 @@ const pedro = {
 <div align="center">
   <img src="https://img.shields.io/github/followers/Pedroca011?style=for-the-badge&logo=github&color=00e5ff&labelColor=0d1117" alt="Seguidores" />
   <img src="https://img.shields.io/github/stars/Pedroca011?style=for-the-badge&logo=github&color=00e5ff&labelColor=0d1117" alt="Stars" />
-  <img src="https://img.shields.io/github/account-age/Pedroca011?style=for-the-badge&logo=github&color=00e5ff&labelColor=0d1117" alt="Tempo de conta" />
   <img src="https://img.shields.io/github/last-commit/Pedroca011/Pedroca011?style=for-the-badge&logo=git&color=00e5ff&labelColor=0d1117" alt="Último commit" />
 </div>
 
