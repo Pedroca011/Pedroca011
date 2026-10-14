@@ -1,0 +1,33 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # todo dia às 00:00 (horário de Brasília)
+  workflow_dispatch: # permite rodar manualmente
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Gerar cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release/v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: -3
+
+      - name: Commitar cards gerados
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "chore: atualiza profile summary cards"
+          git push
